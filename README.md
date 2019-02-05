@@ -1,4 +1,4 @@
-## Food service application (ReactJS + Redux)
+## Cafe service application (ReactJS + Redux)
 
 **To open this App just follow this list:**
 
